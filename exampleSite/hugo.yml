@@ -5,10 +5,9 @@ theme: "cactus"
 copyright: "You" # cactus will use title if copyright is not set
 disqusShortname: "example" # Used when comments is enabled. Cactus will use site 
 
-# Fill in your Umami Analytics tracking ID to enable Umami Analytics.
 umamiAnalytics:
-  enabled: true
-  id: e77e68be-f6e4-4br3-9365-2b76b57cd571
+  enabled: false
+  id: 12345-12345-12345-12345-123456
   host: analytics.domain.com
   scriptName: umami.js
 
